@@ -1,0 +1,336 @@
+{
+  "remapKeys": {
+    "inProcess": [
+      {
+        "originalKeys": "164",
+        "newRemapKeys": "163"
+      },
+      {
+        "originalKeys": "91",
+        "newRemapKeys": "164"
+      }
+    ]
+  },
+  "remapShortcuts": {
+    "global": [
+      {
+        "originalKeys": "163;164;27",
+        "newRemapKeys": "163;160;27"
+      },
+      {
+        "originalKeys": "163;9",
+        "newRemapKeys": "164;9"
+      },
+      {
+        "originalKeys": "163;16;9",
+        "newRemapKeys": "164;160;9"
+      },
+      {
+        "originalKeys": "163;16;51",
+        "newRemapKeys": "44"
+      },
+      {
+        "originalKeys": "163;16;52",
+        "newRemapKeys": "92;160;83"
+      },
+      {
+        "originalKeys": "163;190",
+        "newRemapKeys": "27"
+      },
+      {
+        "originalKeys": "163;81",
+        "newRemapKeys": "18;115"
+      },
+      {
+        "originalKeys": "162;72",
+        "newRemapKeys": "8"
+      },
+      {
+        "originalKeys": "162;68",
+        "newRemapKeys": "46"
+      },
+      {
+        "originalKeys": "163;38",
+        "newRemapKeys": "163;36"
+      },
+      {
+        "originalKeys": "163;40",
+        "newRemapKeys": "163;35"
+      },
+      {
+        "originalKeys": "163;37",
+        "newRemapKeys": "36"
+      },
+      {
+        "originalKeys": "163;39",
+        "newRemapKeys": "35"
+      },
+      {
+        "originalKeys": "164;37",
+        "newRemapKeys": "163;37"
+      },
+      {
+        "originalKeys": "164;39",
+        "newRemapKeys": "163;39"
+      },
+      {
+        "originalKeys": "163;16;38",
+        "newRemapKeys": "163;160;36"
+      },
+      {
+        "originalKeys": "163;16;40",
+        "newRemapKeys": "163;160;35"
+      },
+      {
+        "originalKeys": "163;16;37",
+        "newRemapKeys": "163;160;37"
+      },
+      {
+        "originalKeys": "163;16;39",
+        "newRemapKeys": "163;160;39"
+      },
+      {
+        "originalKeys": "164;16;38",
+        "newRemapKeys": "163;160;38"
+      },
+      {
+        "originalKeys": "164;16;40",
+        "newRemapKeys": "163;160;40"
+      },
+      {
+        "originalKeys": "164;16;37",
+        "newRemapKeys": "163;160;37"
+      },
+      {
+        "originalKeys": "164;16;39",
+        "newRemapKeys": "163;160;39"
+      },
+      {
+        "originalKeys": "162;65",
+        "newRemapKeys": "36"
+      },
+      {
+        "originalKeys": "162;69",
+        "newRemapKeys": "35"
+      },
+      {
+        "originalKeys": "162;70",
+        "newRemapKeys": "39"
+      },
+      {
+        "originalKeys": "162;66",
+        "newRemapKeys": "37"
+      },
+      {
+        "originalKeys": "162;80",
+        "newRemapKeys": "38"
+      },
+      {
+        "originalKeys": "162;78",
+        "newRemapKeys": "40"
+      },
+      {
+        "originalKeys": "163;77",
+        "newRemapKeys": "165;124"
+      },
+      {
+        "originalKeys": "163;164;77",
+        "newRemapKeys": "165;161;124"
+      },
+      {
+        "originalKeys": "163;72",
+        "newRemapKeys": "165;125"
+      },
+      {
+        "originalKeys": "163;164;72",
+        "newRemapKeys": "165;161;125"
+      },
+      {
+        "originalKeys": "162;75",
+        "newRemapKeys": "165;126"
+      }
+    ],
+    "appSpecific": [
+      {
+        "originalKeys": "163;189",
+        "newRemapKeys": "163;160;189",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;187",
+        "newRemapKeys": "163;160;187",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;8",
+        "newRemapKeys": "163;160;8",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;87",
+        "newRemapKeys": "163;160;87",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;69",
+        "newRemapKeys": "163;160;69",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;82",
+        "newRemapKeys": "163;160;82",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;84",
+        "newRemapKeys": "163;160;84",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;89",
+        "newRemapKeys": "163;160;89",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;85",
+        "newRemapKeys": "163;160;85",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;73",
+        "newRemapKeys": "163;160;73",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;79",
+        "newRemapKeys": "163;160;79",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;80",
+        "newRemapKeys": "163;160;80",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;219",
+        "newRemapKeys": "163;160;219",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;221",
+        "newRemapKeys": "163;160;221",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;65",
+        "newRemapKeys": "163;160;65",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;83",
+        "newRemapKeys": "163;160;83",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;68",
+        "newRemapKeys": "163;160;68",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;70",
+        "newRemapKeys": "163;160;70",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;71",
+        "newRemapKeys": "163;160;71",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;72",
+        "newRemapKeys": "163;160;72",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;74",
+        "newRemapKeys": "163;160;74",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;75",
+        "newRemapKeys": "163;160;75",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;76",
+        "newRemapKeys": "163;160;76",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;186",
+        "newRemapKeys": "163;160;186",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;222",
+        "newRemapKeys": "163;160;222",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;192",
+        "newRemapKeys": "163;160;192",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;90",
+        "newRemapKeys": "163;160;90",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;88",
+        "newRemapKeys": "163;160;88",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;67",
+        "newRemapKeys": "163;160;67",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;86",
+        "newRemapKeys": "163;160;86",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;66",
+        "newRemapKeys": "163;160;66",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;78",
+        "newRemapKeys": "163;160;78",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;77",
+        "newRemapKeys": "163;160;77",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;188",
+        "newRemapKeys": "163;160;188",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;190",
+        "newRemapKeys": "162;67",
+        "targetApp": "windowsterminal"
+      },
+      {
+        "originalKeys": "163;191",
+        "newRemapKeys": "163;160;191",
+        "targetApp": "windowsterminal"
+      }
+    ]
+  }
+}
